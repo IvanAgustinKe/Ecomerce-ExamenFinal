@@ -1,23 +1,32 @@
 # Ecomerce-ExamenFinal
+
 ## Laboratorio Aplicaciones Web Cliente
+
 ### Uso de clean code
+
 ### Arquitectura basada en Microfrontend similar a Arquitectura Flux
 
-### Tecnologías: 
+### Tecnologías:
+
 #### HTML 5
-#### CSS3  (Bootstrap 5 https://getbootstrap.com/)
-#### Javascript: DOM, Fetch, Local Storage. 
-#### Api: https://app.mockfly.dev/
+
+#### CSS3  
+- [Bootstrap 5](https://getbootstrap.com/)
+
+#### Javascript: 
+- DOM
+- Fetch
+- Local Storage
+
+#### API:
+- [Mockfly](https://app.mockfly.dev/)
 
 El diseño de toda la aplicación, utilizando una paleta de colores, tipografía y elementos visuales coherentes.
-Recursos:
-https://fonts.google.com/
-https://balsamiq.com/learn/articles/button-design-best-practices/
-https://makeitclear.com/ux-ui-tips-a-guide-to-creating-buttons/
-https://sweetalert2.github.io/
 
-Responsive: 
-La app se adapta a los diferentes tamaños de dispositivos.
+### Recursos:
+- [Google Fonts](https://fonts.google.com/)
+- [Balsamiq Button Design Best Practices](https://balsamiq.com/learn/articles/button-design-best-practices/)
+- [Make it Clear: UX UI Tips](https://makeitclear.com
 
 Ejemplo:
 ![Screenshot_1](https://github.com/user-attachments/assets/b5584646-0bc7-43b2-8168-00f9a4116acc)
