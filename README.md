@@ -18,7 +18,7 @@
 #### API:
 - [Mockfly](https://app.mockfly.dev/)
 
-El diseño de toda la aplicación, utilizando una paleta de colores, tipografía y elementos visuales coherentes.
+- El diseño de toda la aplicación, utilizando una paleta de colores, tipografía y elementos visuales coherentes.
 
 ### Recursos:
 - [Google Fonts](https://fonts.google.com/)
