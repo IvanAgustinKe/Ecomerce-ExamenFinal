@@ -9,6 +9,16 @@
 #### Javascript: DOM, Fetch, Local Storage. 
 #### Api: https://app.mockfly.dev/
 
+El diseño de toda la aplicación, utilizando una paleta de colores, tipografía y elementos visuales coherentes.
+Recursos:
+https://fonts.google.com/
+https://balsamiq.com/learn/articles/button-design-best-practices/
+https://makeitclear.com/ux-ui-tips-a-guide-to-creating-buttons/
+https://sweetalert2.github.io/
+
+Responsive: 
+La app se adapta a los diferentes tamaños de dispositivos.
+
 Ejemplo:
 ![Screenshot_1](https://github.com/user-attachments/assets/b5584646-0bc7-43b2-8168-00f9a4116acc)
 ![Screenshot_7](https://github.com/user-attachments/assets/2ea7c7d6-7634-495a-9a1a-b892b40b0428)
