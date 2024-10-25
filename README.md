@@ -5,7 +5,7 @@
 
 ### Tecnologías: 
 #### HTML 5
-#### CSS3 (se recomienda usar Bootstrap 5 https://getbootstrap.com/)
+#### CSS3  (Bootstrap 5 https://getbootstrap.com/)
 #### Javascript: DOM, Fetch, Local Storage. 
 #### Api: https://app.mockfly.dev/
 
