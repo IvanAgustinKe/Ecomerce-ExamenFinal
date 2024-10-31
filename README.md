@@ -3,7 +3,7 @@
 ## Laboratorio Aplicaciones Web Cliente
 
 - Uso de clean code
-- Arquitectura basada en Microfrontend similar a Arquitectura Flux
+- Arquitectura carpetas y archivos similar a Arquitectura Flux
 
 ### Tecnologías:
 - HTML 5
